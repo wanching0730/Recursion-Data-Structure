@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d25ce736-8ccb-4e0a-9dca-6e5c76187c34" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Factorial.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data-Struct-Lab-1/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Factorial.java" afterPath="$PROJECT_DIR$/src/Factorial.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,59 +18,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Account.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Account.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-              <folding>
-                <element signature="e#455#456#0" expanded="true" />
-                <element signature="e#493#494#0" expanded="true" />
-                <element signature="e#717#718#0" expanded="true" />
-                <element signature="e#752#753#0" expanded="true" />
-                <element signature="e#797#798#0" expanded="true" />
-                <element signature="e#843#844#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BinaryNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Factorial.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Factorial.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Factorial.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AccountTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AccountTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-              <folding />
+              <caret line="2" column="55" lean-forward="false" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+              <folding>
+                <element signature="e#68#69#0" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -104,6 +58,7 @@
         <option value="$PROJECT_DIR$/src/findBinary.java" />
         <option value="$PROJECT_DIR$/src/BinaryNumber.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/Factorial.java" />
       </list>
     </option>
   </component>
@@ -193,7 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinaryNumber">
+  <component name="RunManager" selected="Application.Factorial">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -218,6 +173,20 @@
     <configuration name="BinaryNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="BinaryNumber" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Data-Struct-Lab-1" />
+      <envs />
+    </configuration>
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Factorial" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -317,16 +286,18 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.Testing1" />
       <item index="1" class="java.lang.String" itemvalue="Application.AccountTest" />
       <item index="2" class="java.lang.String" itemvalue="Application.BinaryNumber" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Factorial" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.BinaryNumber" />
-        <item index="1" class="java.lang.String" itemvalue="Application.AccountTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Testing1" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.Factorial" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BinaryNumber" />
+        <item index="2" class="java.lang.String" itemvalue="Application.AccountTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Testing1" />
       </list>
     </recent_temporary>
   </component>
@@ -351,12 +322,12 @@
       <workItem from="1528268971024" duration="3815000" />
       <workItem from="1528277502833" duration="648000" />
       <workItem from="1528292699975" duration="21000" />
-      <workItem from="1528765594881" duration="5592000" />
+      <workItem from="1528765594881" duration="5740000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10076000" />
+    <option name="totallyTimeSpent" value="10224000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="742" extended-state="0" />
@@ -483,19 +454,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Factorial.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="207">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/Factorial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="46">
+          <caret line="2" column="55" lean-forward="false" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+          <folding>
+            <element signature="e#68#69#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
