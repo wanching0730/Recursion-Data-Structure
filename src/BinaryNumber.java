@@ -1,6 +1,6 @@
 public class BinaryNumber {
     public static void main(String[] args) {
-        findBinary(10);
+        findBinary(66);
 
     }
 
